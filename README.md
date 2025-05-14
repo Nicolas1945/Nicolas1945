@@ -1,7 +1,4 @@
 <div align="center">
-# 🌍 Portfólio de Nicolas1945
-# 📁 Portfólio de Nicolas
-
 ## 🌳 Engenheiro Florestal | 👀 Visão Computacional | 🛰️ Sensoriamento Remoto | 🪲 Entomologista | 🤖 Inteligência Artificial
 
 
