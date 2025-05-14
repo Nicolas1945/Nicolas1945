@@ -1,10 +1,10 @@
 <div align="center">
-# 🌍 Portfólio de Nicolas1945
+ 🌍 Portfólio de Nicolas1945
 
-### 🌳 Engenheiro Florestal | 👀 Visão Computacional | 🛰️ Sensoriamento Remoto | 🪲 Entomologista | 🤖 Inteligência Artificial
+## 🌳 Engenheiro Florestal | 👀 Visão Computacional | 🛰️ Sensoriamento Remoto | 🪲 Entomologista | 🤖 Inteligência Artificial
 
 
-Seja bem-vindo(a) ao meu portfólio! Este espaço reúne projetos, publicações e soluções desenvolvidas na intersecção entre meio ambiente, tecnologia e inteligência artificial.
+### Seja bem-vindo(a) ao meu portfólio! Este espaço reúne projetos, publicações e soluções desenvolvidas na intersecção entre meio ambiente, tecnologia e inteligência artificial.
 ----
 <div align="left">
 # 🌟 Sobre Mim
