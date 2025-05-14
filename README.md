@@ -5,8 +5,9 @@
 
 
 Seja bem-vindo(a) ao meu portfólio! Este espaço reúne projetos, publicações e soluções desenvolvidas na intersecção entre meio ambiente, tecnologia e inteligência artificial.
-
-## 🌟 Sobre Mim
+----
+<div align="left">
+# 🌟 Sobre Mim
 
 🌳 **Engenheiro Florestal apaixonado por Natureza e Tecnologia**
 🔬 Visão computacional | Sensoriamento remoto | Drones | Inteligência Artificial aplicada ao meio ambiente
