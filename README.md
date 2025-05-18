@@ -47,12 +47,6 @@ Empregar **tecnologia e ciência de dados** para proteger, monitorar e valorizar
   Aumenta a resolução espacial para 1 metro usando deep learning.
   [Repositório](https://github.com/Nicolas1945/S2DR3-Sentinel2-Superresolucao)
 
-* 🔹 **Detecção de Pragas com YOLOv8 e Drones**
-  Pipeline completo para identificar insetos-praga em florestas e lavouras.
-  [Repositório](https://github.com/Nicolas1945)
-
-* 🔹 **Mapeamento de Madeira com Imagens Aéreas**
-  Uso do Detectron2 para detectar feixes de madeira via drone sem uso de cloud computing.
 
 ## 🔎 Contato
 
